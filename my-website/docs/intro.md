@@ -1,47 +1,31 @@
+# Personal Info
+
 ---
-sidebar_position: 1
----
+- Name: Raymundo Girón Mosqueda
+- Age: 25
+- Alias: CryoStorage
 
-# Tutorial Intro
+![](../../static/img/pfp.jpg)
+Hello, I'm Ray, Im a Video game and interactive software
+development student based in mexico city
 
-Let's discover **Docusaurus in less than 5 minutes**.
+### Why video game and interactive software development?
+Throughout my life nothing has captured my interest as
+much as video games.  
+Ever since i was introduced to them at
+the young age of 3, Games have been a central part in my life
+and i am very passionate about them.  
+I hope to one day develop games that resonate with others
+as the games i have played resonated with me.
 
-## Getting Started
+### Interests and hobbies
 
-Get started by **creating a new site**.
+I Dont just enjoy video games as a past time.  
+I also like working out, drinking coffee, cooking, learning about and building custom desktop
+computers, listening to new and interesting music and i also love digital art.
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+### Contact
 
-### What you'll need
-
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
-
-## Generate a new site
-
-Generate a new Docusaurus site using the **classic template**.
-
-The classic template will automatically be added to your project after you run the command:
-
-```bash
-npm init docusaurus@latest my-website classic
-```
-
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
-
-The command also installs all necessary dependencies you need to run Docusaurus.
-
-## Start your site
-
-Run the development server:
-
-```bash
-cd my-website
-npm run start
-```
-
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
-
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
-
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+You can reach me at: **Dev.CryoStorage@gmail.com**  
+See my Pixel art at: [Instagram](https://www.instagram.com/cryostorage/)  
+Play my demos at: [My itch.io page](https://cryostorage.itch.io/)
