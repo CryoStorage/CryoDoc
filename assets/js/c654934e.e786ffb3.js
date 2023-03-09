@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[8244],{9272:e=>{e.exports=JSON.parse('{"label":"hola","permalink":"/CryoDoc/blog/tags/hola","allTagsPath":"/CryoDoc/blog/tags","count":1}')}}]);

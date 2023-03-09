@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_website=self.webpackChunkmy_website||[]).push([[9406],{8268:e=>{e.exports=JSON.parse('{"title":"Games","description":"games","slug":"/category/games","permalink":"/CryoDoc/docs/category/games","navigation":{"next":{"title":"Disco-Elysium","permalink":"/CryoDoc/docs/Games/Disco-Elysium"}}}')}}]);
