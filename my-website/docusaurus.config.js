@@ -6,8 +6,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'CryoDoc',
+  tagline: '1er Parcial 6to Semestre',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
@@ -21,7 +21,8 @@ const config = {
   organizationName: 'CryoStorage', // Usually your GitHub org/user name.
   projectName: 'CryoDoc', // Usually your repo name.
   deploymentBranch: 'gh-pages', //
-
+  
+  trailingSlash: false, //
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
 
